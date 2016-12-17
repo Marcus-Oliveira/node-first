@@ -1,0 +1,127 @@
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
+    at RedisClient.on_error (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:458:13)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: failed to connect to [undefined:27017]
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:74)
+    at emit (events.js:106:17)
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emit (events.js:98:17)
+    at Socket.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at Socket.emit (events.js:95:17)
+    at net.js:834:16
+    at process._tickCallback (node.js:458:13)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: failed to connect to [undefined:27017]
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:74)
+    at emit (events.js:106:17)
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emit (events.js:98:17)
+    at Socket.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at Socket.emit (events.js:95:17)
+    at net.js:834:16
+    at process._tickCallback (node.js:458:13)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: failed to connect to [undefined:27017]
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:74)
+    at emit (events.js:106:17)
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emit (events.js:98:17)
+    at Socket.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at Socket.emit (events.js:95:17)
+    at net.js:834:16
+    at process._tickCallback (node.js:458:13)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: failed to connect to [undefined:27017]
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:74)
+    at emit (events.js:106:17)
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emit (events.js:98:17)
+    at Socket.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at Socket.emit (events.js:95:17)
+    at net.js:834:16
+    at process._tickCallback (node.js:458:13)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: failed to connect to [undefined:27017]
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:74)
+    at emit (events.js:106:17)
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emit (events.js:98:17)
+    at Socket.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at Socket.emit (events.js:95:17)
+    at net.js:834:16
+    at process._tickCallback (node.js:458:13)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: failed to connect to [undefined:27017]
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:74)
+    at emit (events.js:106:17)
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emit (events.js:98:17)
+    at Socket.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at Socket.emit (events.js:95:17)
+    at net.js:834:16
+    at process._tickCallback (node.js:458:13)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: failed to connect to [undefined:27017]
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:74)
+    at emit (events.js:106:17)
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emit (events.js:98:17)
+    at Socket.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at Socket.emit (events.js:95:17)
+    at net.js:834:16
+    at process._tickCallback (node.js:458:13)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: failed to connect to [undefined:27017]
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:74)
+    at emit (events.js:106:17)
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emit (events.js:98:17)
+    at Socket.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at Socket.emit (events.js:95:17)
+    at net.js:834:16
+    at process._tickCallback (node.js:458:13)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: failed to connect to [undefined:27017]
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/server.js:556:74)
+    at emit (events.js:106:17)
+    at null.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection_pool.js:156:15)
+    at emit (events.js:98:17)
+    at Socket.<anonymous> (/home/marcus/Documentos/ProjetosPessoais/gitClones/node-first/projeto_chat/ntalk/node_modules/mongoose/node_modules/mongodb/lib/mongodb/connection/connection.js:534:10)
+    at Socket.emit (events.js:95:17)
+    at net.js:834:16
+    at process._tickCallback (node.js:458:13)
