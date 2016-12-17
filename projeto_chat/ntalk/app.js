@@ -3,9 +3,16 @@
  */
 
 var express = require('express'),
+    // load = require('express-load'),
     routes = require('./routes');
 
 var app = module.exports = express.createServer();
+
+// ...stack de configurações do servidor...
+// load('models')
+//     .then('controllers')
+//     .then('routes')
+//     .into(app);
 
 // Configuration
 
@@ -28,8 +35,9 @@ app.configure('production', function() {
 
 // Routes
 
-app.get('/', routes.index);
+// app.get('/', routes.index);
+// app.get('/usuarios', routes.user.index);
 
 app.listen(3000, function() {
-    console.log("Express server listening on port %d in %s mode", app.address().port, app.settings.env);
+    console.log("Ntalk no ar.");
 });
