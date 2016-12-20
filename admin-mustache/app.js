@@ -11,15 +11,16 @@ var users = require('./routes/users');
 var app = express();
 
 // view engine setup
-var mustacheExpress = require('mustache-express');
+// var mustacheExpress = require('mustache-express');
+
+var exphbs = require('express-handlebars');
 
 // Register '.mustache' extension with The Mustache Express
-app.engine('mustache', mustacheExpress());
+// app.engine('mustache', mustacheExpress());
+app.engine('handlebars', exphbs({ defaultLayout: 'main' }));
 
 app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'mustache');
-
-// console.log(app);
+app.set('view engine', 'handlebars');
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
